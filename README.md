@@ -16,8 +16,29 @@ notes to set up new computer
 * Chrome (Extensions):
     * React Developer Tools
     * Live Server Web Extension
-* Hyper - Terminal:
-    * Customisation
+* Git Bash:
+    * https://gitforwindows.org/
+    * During installation double-check:
+       * ✅ Git Bash here
+    * Open Bash Terminal in VS Code:
+       * Terminal (Tab) > New Terminal > `|+|v|` menu > Git Bash (terminal show: `$`)
+    * Git Bash as default Shell in VS Code:
+       * View (Tab) > Command Palette: (write) `Terminal: Select Default Profile` > (select) Git Bash
 * Postman
-* Post
+* PostgreSQL
+* SQL Server Manager Studio
+  * note: keep a file with the path to the server
 * Optional - Atom (Packages)
+    * atom-beautify
+    * atom-django
+    * atom-html-preview
+    * atom-ternjs
+    * autoclose-html
+    * csslint
+    * emmet
+    * hyperclick
+    * language-ejs
+    * linter
+    * linter-eslint
+    * pigments
+    * platformio-ide-terminal
