@@ -42,3 +42,5 @@ notes to set up new computer
     * linter-eslint
     * pigments
     * platformio-ide-terminal
+* Xampp
+* soft Xpansion Perfect PDF 10 Premium
