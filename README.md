@@ -1,6 +1,12 @@
 # computer_setup
 notes to set up new computer
 
+* Chrome (Extensions):
+    * React Developer Tools
+    * Live Server Web Extension
+    * adBlock
+* Mozilla Firefox
+    * uBlock Origin
 * VS Code (Packages):
     * Prettier - C ode Formatter
     * Python
@@ -13,9 +19,6 @@ notes to set up new computer
     * EJS language support
     * Live Preview
     * Python Environments 
-* Chrome (Extensions):
-    * React Developer Tools
-    * Live Server Web Extension
 * Git Bash:
     * https://gitforwindows.org/
     * During installation double-check:
@@ -45,4 +48,15 @@ notes to set up new computer
 * Xampp
 * soft Xpansion Perfect PDF 10 Premium
 * montserrat font
-  
+*  Revo Uninstaller
+* Software for PC Builts
+    * HWMonitor : it scans sensors (hardware)
+    * FanControl : (advanced) monitors and controls sensors and fans
+* Settings:
+    * Check out Startup Apps (ram)
+    * Resolution and monitor Hz values
+       * Display > Advanced Display settings > Refresh Rate
+     * Reduce Windows Cosmetics (improves perfomance in low end pcs)
+       * System Properties > Advanced > Perfomance (settings) > Visual Effects (unmark everything)
+       * Notes: Animations consume excesive resources and slow down user speed.  
+       
