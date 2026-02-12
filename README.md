@@ -57,6 +57,16 @@ notes to set up new computer
     * Resolution and monitor Hz values
        * Display > Advanced Display settings > Refresh Rate
      * Reduce Windows Cosmetics (improves perfomance in low end pcs)
-       * System Properties > Advanced > Perfomance (settings) > Visual Effects (unmark everything)
-       * Notes: Animations consume excesive resources and slow down user speed.  
-       
+       * System Properties > Advanced > Perfomance (settings) > Visual Effects (unmark animations)
+       * Notes: Animations consume excesive resources and slow down user speed.
+* How to Scan and Repair Your Computer for Corrupt Files
+    * CMD (Run as Admin) 
+    * `chkdsk /f /r`
+    * `sfc /scannow`
+* Reset DNS:
+    * CMD (Run as Admin) 
+    * `ipconfig /flushdns`
+    * `ipconfig /registerdns`  
+    * `ipconfig /release`
+    * `ipconfig /renew`      
+    * `netsh winsock reset` 
